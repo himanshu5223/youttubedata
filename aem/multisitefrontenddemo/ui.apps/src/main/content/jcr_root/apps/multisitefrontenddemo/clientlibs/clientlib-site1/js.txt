@@ -1,3 +1,0 @@
-#base=js
-
-site1.js
